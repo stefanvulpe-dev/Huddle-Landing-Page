@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/stefanvulpe-dev/Huddle-Landing-Page)
-- Live Site URL: [](https://stefanvulpe-dev.github.io/Huddle-Landing-Page/)
+- Solution URL: [See here](https://github.com/stefanvulpe-dev/Huddle-Landing-Page)
+- Live Site URL: [See here](https://stefanvulpe-dev.github.io/Huddle-Landing-Page/)
 
 ## Built with
 
